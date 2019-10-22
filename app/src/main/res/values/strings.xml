@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Scoreboard</string>
+    <string name="activity_name">Badminton Scoreboard</string>
+    <string name="win_statement_A">Congratulations A! You are the winner</string>
+    <string name="win_statement_B">Congratulations B! You are the winner</string>
+    <string name="enter_first_player_name_hint">PLAYER/TEAM A</string>
+    <string name="enter_second_player_name_hint">PLAYER/TEAM B</string>
+    <string name="initial_score">0</string>
+    <string name="round_1">Round 1</string>
+    <string name="round_2">Round 2</string>
+    <string name="round_3">Round 3</string>
+    <string name="increase_score_by_one">+1 Point</string>
+    <string name="reset_scoreboard">RESET</string>
+</resources>
